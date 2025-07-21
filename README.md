@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rama Lakkireddy</h1>
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Am+a+Passionate+Software+Developer;Master's+in+Business+Analytics;University+of+North+Texas;Self-taught+Developer;Open-Source+contributor;Solving+problems+through+code;Love+to+learn+new+technologies.</a>
-</p>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 - 🔭 I’m currently working on **Full Stack Software Developer**
 
